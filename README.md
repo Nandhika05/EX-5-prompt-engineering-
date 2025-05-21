@@ -1,8 +1,13 @@
-
-
 # EXP 5: Comparative Analysis of Naïve Prompting versus Basic Prompting Using ChatGPT Across Various Test Scenarios
-# Aim: To test how ChatGPT responds to naïve prompts (broad or unstructured) versus basic prompts (clearer and more refined) across multiple scenarios, analyzing the quality, accuracy, and depth of the generated responses.
-# Algorithm: 
+
+# Register Number : 212223040125
+
+# Aim: 
+
+    To test how ChatGPT responds to naïve prompts (broad or unstructured) versus basic prompts (clearer and more refined) across multiple scenarios, analyzing the quality, accuracy, and depth of the generated responses.
+    
+# Algorithm:  
+
 Define the Two Prompt Types:
 Naïve Prompts: Broad, vague, or open-ended prompts with little specificity.
 Basic Prompts: Clear, detailed, and structured prompts that give specific instructions or context to guide the model.
@@ -141,3 +146,6 @@ Often gives more streamlined and brief answers but provides good clarity in resp
 # Conclusion:
 Both models exhibit strengths depending on the style of the prompt. ChatGPT is ideal for users who need more detailed explanations, particularly in complex topics. Gemini, on the other hand, is more efficient in providing quick, concise responses, making it a good choice for simpler, straightforward tasks or when clarity is prioritized over depth.
 
+# Result:
+
+    Thus the prompt runs successfully
